@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Игорь снимался в гей порно");
+﻿using Project;
+
+Program1.main();
