@@ -1,3 +1,2 @@
 ﻿using Project;
-
-Program3.main();
+String1.main();
