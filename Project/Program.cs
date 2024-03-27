@@ -1,2 +1,2 @@
 ﻿using Project;
-String1.main();
+Function1.main();
